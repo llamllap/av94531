@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/llamllap/av94531/edit/gh-p
 
 Whenever you commit to this , GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
