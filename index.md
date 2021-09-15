@@ -1,7 +1,3 @@
-## Welcome to 666 Pages
+## Welcome to AV94531 Pages
 
-You can use the [editor on GitHub](https://github.com/llamllap/av94531/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
-
+🔗點我進入新世界
